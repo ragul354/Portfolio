@@ -416,6 +416,10 @@ nav .fa-solid {
         display: block;
         font-size: 25px;
     }
+    .fa-bars{
+        margin: 20px;
+        margin-left: 150px;
+    }
     .services-list {
         grid-template-columns: repeat(2, 1fr);
     }
