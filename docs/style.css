@@ -418,7 +418,7 @@ nav .fa-solid {
     }
     .fa-bars{
         margin: 20px;
-        margin-left: 150px;
+        margin-left: 250px;
     }
     .services-list {
         grid-template-columns: repeat(2, 1fr);
